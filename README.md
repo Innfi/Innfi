@@ -1,21 +1,22 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ...
+#### 🔭 I’m currently working on ...
   
-Game Server based on Typescript, Express, MariaDB, Redis, AWS
+##### Game Server based on Typescript, Express, MariaDB, Redis, AWS
 
-- 🌱 I’m currently learning ...
+#### 🌱 I’m currently learning ...
 
-Non-Abstract Large System Design
+##### Non-Abstract Large System Design
 
-Kubernetes
+##### Kubernetes
 
-Rust
+##### GitOps
 
+##### Rust
+
+#
 
 <h3>Tech Stacks</h3>
-  
-#  
 
 ![TS](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
@@ -40,9 +41,9 @@ Rust
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Codewars](https://www.codewars.com/users/Innfi/badges/small)
 
-<h3>Stats</h3>
-
 #
+
+<h3>Stats</h3>
 
 <div align="left">
   
