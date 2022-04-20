@@ -2,17 +2,15 @@
 
 #### 🔭 I’m currently working on ...
   
-##### Game Server based on Typescript, Express, MariaDB, Redis, AWS
+Game Server based on Typescript, Express, MariaDB, Redis, AWS
 
 #### 🌱 I’m currently learning ...
 
-##### Non-Abstract Large System Design
+Non-Abstract Large System Design
 
-##### Kubernetes
+Kubernetes
 
-##### GitOps
-
-##### Rust
+Rust
 
 #
 
