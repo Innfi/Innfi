@@ -2,7 +2,7 @@
 
 #### 🔭 I’m currently working on ...
   
-Game Server based on Typescript, Express, MariaDB, Redis, AWS
+Backend services with Typescript, Nest.js, MariaDB, Redis on AWS
 
 #### 🌱 I’m currently learning ...
 
