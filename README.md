@@ -10,6 +10,8 @@ Non-Abstract Large System Design
 
 Rust
 
+Go
+
 #
 
 <h3>Tech Stacks</h3>
