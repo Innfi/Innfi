@@ -12,8 +12,6 @@ Rust
 
 Go
 
-Deno
-
 #
 
 <h3>Tech Stacks</h3>
