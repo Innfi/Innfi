@@ -2,15 +2,13 @@
 
 #### 🔭 I’m currently working on ...
   
-Backend services with Typescript, Nest.js, Mysql, Kubernetes on AWS
+Backend services with Typescript, Nest.js, Go, Mysql, Kubernetes on AWS
 
 #### 🌱 I’m currently learning ...
 
 Non-Abstract Large System Design
 
 Rust
-
-Go
 
 #
 
