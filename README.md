@@ -8,8 +8,6 @@ Backend services with Typescript, Nest.js, Go, Mysql, Kubernetes on AWS
 
 Non-Abstract Large System Design
 
-Rust
-
 #
 
 <h3>Tech Stacks</h3>
