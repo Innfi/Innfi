@@ -2,7 +2,7 @@
 
 #### 🔭 I’m currently working on ...
   
-Backend services with Typescript, Nest.js, Go, Mysql, Kubernetes on AWS
+Backend services with Typescript(Nest.js), Go(Fiber), Mysql, Kubernetes on AWS, and a little bit of React
 
 #### 🌱 I’m currently learning ...
 
