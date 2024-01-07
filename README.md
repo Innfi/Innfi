@@ -41,7 +41,7 @@ Non-Abstract Large System Design
 ![Azure Devops](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
 
 ![Codewars](https://www.codewars.com/users/Innfi/badges/small)
-
+![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)
 #
 
 <h3>Stats</h3>
