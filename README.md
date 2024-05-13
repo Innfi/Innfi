@@ -6,7 +6,7 @@ Backend services with Typescript(Nest.js), Go(Fiber), Mysql, Kubernetes on AWS, 
 
 #### 🌱 I’m currently learning ...
 
-Non-Abstract Large System Design
+Service Mesh
 
 #
 
