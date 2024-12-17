@@ -59,5 +59,4 @@ Service Mesh
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Innfi&layout=compact&theme=dark)
 
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Innfi&theme=dark)](https://git.io/streak-stats)
 </div>
