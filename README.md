@@ -8,6 +8,8 @@ Backend services with Typescript(Nest.js), Go(Fiber), Mysql(Aurora), EKS, and a 
 
 Service Mesh
 
+Kafka
+
 #
 
 <h3>Tech Stacks</h3>
