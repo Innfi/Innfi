@@ -8,8 +8,6 @@ Backend services with Typescript(Nest.js), Go(Fiber), Mysql(Aurora), EKS, and a 
 
 Service Mesh
 
-Kafka
-
 #
 
 <h3>Tech Stacks</h3>
@@ -50,7 +48,6 @@ Kafka
 ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
 
 ![Codewars](https://www.codewars.com/users/Innfi/badges/small)
-![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)
 #
 
 <h3>Stats</h3>
