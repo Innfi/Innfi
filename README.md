@@ -6,7 +6,7 @@ Backend services with Typescript(Nest.js), Go(Fiber), Mysql(Aurora), EKS, and a 
 
 #### 🌱 I’m currently learning ...
 
-Deep Learning
+zero to production
 
 #
 
